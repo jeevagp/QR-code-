@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+   
+}
+
+.container{ 
+    text-align: center;
+    margin: 120px 550px;
+    background-color:  hsl(0, 0%, 100%);
+    border-radius: 15px;
+    padding: 15px;
+    width: 230px;
+    height: 380px;
+
+}
+
+.qr-img{
+    width: 230px;
+    border-radius: 10px;
+}
+
+h3{
+    font-family: 'montserrat',sans-serif;
+}
+.font{
+    font-weight: normal;
+}
+p{
+    font-size: 15px;
+    color: rgb(123, 125, 128);
+    font-family:  url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Dancing+Script:wght@700&family=Montserrat:wght@500&family=Outfit:wght@200&display=swap');
+ 
+}
+.attribution{
+    text-align: center;
+    font-size: 15px;
+
+}
